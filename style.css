@@ -1,0 +1,47 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    background-color: #FFD639;
+    color: #212738;
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 3px 3px 3px #9B6A6C;
+}
+
+#start {
+    font-size: 16px;
+    background-color: #FF3C38;
+    color: #CAF7E2;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+#status {
+    font-size: 16px;
+    background-color: #E5C3D1;
+    color: #131B23;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+#noObjs {
+    font-size: 16px;
+    background-color: #B0A3D4;
+    color: #131B23;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+.footer {
+    bottom: 0;
+    position: fixed;
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+    background-color: #7DE2D1;
+    color: #592941;
+    font-size: 18px;
+}
